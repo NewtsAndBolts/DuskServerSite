@@ -54,18 +54,18 @@ body {
 
 /* CONTENT */
 .tab-container {
-    width: 45%;
+    width: 1000px;
     background-color: rgb(63, 105, 129);
 }
 
 .header-container {
-    width: 45%;
+    width: 1000px;
     text-align: center;
     margin: -1px auto 0 auto;
 }
 
 .body-container {
-    width: 45%;
+    width: 1000px;
     padding: 35px;
 }
 
