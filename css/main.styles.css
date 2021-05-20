@@ -1,0 +1,79 @@
+/* MAIN */
+@font-face {
+    font-family: OpenSans;
+    src: url("font/OpenSans-Light.ttf");
+}
+
+@font-face {
+    font-family: OpenSans;
+    font-weight: 500;
+    src: url("font/OpenSans-Regular.ttf")
+}
+
+@font-face {
+    font-family: OpenSans;
+    font-weight: bold;
+    src: url("font/OpenSans-Bold.ttf")
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url("font/Poppins-Regular.ttf");
+}
+
+@font-face {
+    font-family: Poppins;
+    font-weight: bold;
+    src: url("font/Poppins-Medium.ttf");
+}
+
+body {
+    background-color: #e7e7e7;
+    font-family: OpenSans;
+    margin-bottom: 100px;
+}
+
+.container {
+    background-color: #faf9f7;
+    margin: 50px auto 0 auto;
+    padding: 25px;
+    border: 1px solid #d5d5d5;
+}
+
+.round-bottom {
+    border-radius: 0 0 10px 10px;
+}
+
+.round-top {
+    border-radius: 10px 10px 0 0;
+}
+
+.round {
+    border-radius: 10px;
+}
+
+/* CONTENT */
+.tab-container {
+    width: 50%;
+    background-color: rgb(63, 105, 129);
+}
+
+.header-container {
+    width: 50%;
+    text-align: center;
+    margin: -1px auto 0 auto;
+}
+
+.body-container {
+    width: 50%;
+    padding: 35px;
+}
+
+.list-container {
+    width: 85%;
+    margin: auto;
+}
+
+.list-item li {
+    padding-top: 10px;
+}
