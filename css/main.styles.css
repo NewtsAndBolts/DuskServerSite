@@ -54,23 +54,23 @@ body {
 
 /* CONTENT */
 .tab-container {
-    width: 1000px;
+    width: 1500px;
     background-color: rgb(63, 105, 129);
 }
 
 .header-container {
-    width: 1000px;
+    width: 1500px;
     text-align: center;
     margin: -1px auto 0 auto;
 }
 
 .body-container {
-    width: 1000px;
+    width: 1500px;
     padding: 35px;
 }
 
 .list-container {
-    width: 85%;
+    width: 95%;
     margin: auto;
 }
 
